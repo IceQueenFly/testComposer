@@ -1,0 +1,16 @@
+{
+    "name": "zyq/zyq-composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zyq",
+            "email": "790516255@qq.com"
+        }
+    ],
+    "require": {},
+      "autoload": {
+        "psr-4": {
+            "zyq\\test\\composer\\": ""
+        }
+    },
+}
