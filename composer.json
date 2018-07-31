@@ -1,17 +1,16 @@
 {
-  "name": "icequeen/zyq-composer",
-  "type": "library",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "zyq",
-      "email": "790516255@qq.com"
+    "name": "zyq/zyq-composer",
+    "description": "test",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "zyq",
+            "email": "790516255@qq.com"
+        }
+    ],
+    "require": {
+    	  "php": ">=5.3.0"
     }
-  ],
-  "require": {},
-  "autoload": {
-    "psr-4": {
-      "icequeen\\test\\composer\\": ""
-    }
-  }
 }
