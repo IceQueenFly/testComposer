@@ -3,11 +3,14 @@
     "description": "test",
     "type": "yii2-extension",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "zyq",
             "email": "790516255@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+    	  "php": ">=5.3.0"
+    }
 }
