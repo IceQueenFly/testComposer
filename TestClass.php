@@ -4,7 +4,7 @@
 */
 class TestClass 
 {
-	public static doTest(){
+	public static function doTest(){
 		echo "success";
 	}
 	
