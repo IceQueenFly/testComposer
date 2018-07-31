@@ -10,7 +10,7 @@
     "require": {},
       "autoload": {
         "psr-4": {
-            "zyq\\test\\composer\\": ""
+            "zyq-qiu\\test\\composer\\": ""
         }
     }
 }
