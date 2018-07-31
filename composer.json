@@ -1,5 +1,5 @@
 {
-    "name": "zyq/zyq-composer",
+    "name": "icequeen/zyq-composer",
     "type": "library",
     "authors": [
         {
@@ -10,7 +10,7 @@
     "require": {},
       "autoload": {
         "psr-4": {
-            "zyq-qiu\\test\\composer\\": ""
+            "icequeen\\test\\composer\\": ""
         }
     }
 }
