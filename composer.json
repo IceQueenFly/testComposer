@@ -3,7 +3,7 @@
     "description": "test",
     "type": "yii2-extension",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "zyq",
